@@ -22,9 +22,7 @@ simple tools over full desktop network managers.
 
 ## Screenshots
 
-> Screenshots coming soon.
-
-(You can add them later under an `assets/` directory.)
+![NetMan Screenshot](assets/netman.png)
 
 ---
 
